@@ -4,7 +4,7 @@ Use UIActionSheet with blocks instead of a delegate
 
 ## Installation
 
-Add `pod 'UIActionSheet-Blocks', :git => 'https://github.com/zwopple/UIActionSheet-Blocks.git'` to your `Podfile` and then run `pod install`.
+Add `pod 'UIActionSheet+Blocks', :git => 'https://github.com/zwopple/UIActionSheet-Blocks.git'` to your `Podfile` and then run `pod install`.
 
 ## License
 

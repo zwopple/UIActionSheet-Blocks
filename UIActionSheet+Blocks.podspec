@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "UIActionSheet+Blocks"
-  s.summary = "Create UIColors from a valid hexidecimal uint32_t."
+  s.summary = "Use UIActionSheet with blocks instead of a delegate"
   
   s.version = "1.0.0"
   s.license = { :type => "MIT", :file => "LICENSE" }
